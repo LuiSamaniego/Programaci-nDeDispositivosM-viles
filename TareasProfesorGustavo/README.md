@@ -9,6 +9,7 @@ Subir un archivo formato zip con nombre Tarea1 ApellidoParternoApellidoMaterno P
 Notas
 El objetivo es probar el ambiente, emulador, programar y ver la estructura de una aplicaci ́on. Entregar la  carpeta completa del proyecto Android. La tarea es individual.
 
-> Resultado
-![Titulo del Curso]('Screenshot 2022-03-11 022027.png')
+#Resultado
+
+![Titulo del Curso](Screenshot 2022-03-11 022027.png)
 
